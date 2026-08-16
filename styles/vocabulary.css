@@ -4,7 +4,7 @@
     padding: 10px;
     max-height: 300px;
     overflow-y: auto;
-    background-color: var(--st-chatu8-bg-color-lighter);
+    background-color: var(--st-chatu8-bg-tertiary, #e9e9e9);
 }
 
 .st-chatu8-vocabulary-ul {
@@ -27,7 +27,7 @@
 }
 
 .st-chatu8-vocabulary-item:hover {
-    background-color: var(--st-chatu8-bg-color-hover);
+    background-color: var(--st-chatu8-bg-secondary, #eeeeee);
 }
 
 .st-chatu8-vocabulary-actions {
@@ -38,7 +38,7 @@
 
 .st-chatu8-installed-label {
     font-size: 0.9em;
-    color: var(--st-chatu8-text-color-secondary);
+    color: var(--st-chatu8-text-secondary, #6c757d);
 }
 
 .st-chatu8-search-result-item {
@@ -48,8 +48,19 @@
 }
 
 .st-chatu8-search-result-item:hover {
-    background-color: var(--st-chatu8-accent-color);
+    background-color: var(--st-chatu8-accent-primary, #007bff);
     color: white;
+}
+
+/* 搜索结果的选中态（橙色系，与标签浏览器树选中绿色区分） */
+.st-chatu8-search-result-item.st-chatu8-search-tag-selected {
+    background-color: var(--st-chatu8-tag-selected-search-bg, #ffe0b2);
+    color: var(--st-chatu8-tag-selected-search-text, #e65100);
+    box-shadow: 0 0 0 2px var(--st-chatu8-tag-selected-search-border, #ffb74d);
+}
+.st-chatu8-search-result-item.st-chatu8-search-tag-selected:hover {
+    background-color: var(--st-chatu8-tag-selected-search-bg, #ffe0b2);
+    color: var(--st-chatu8-tag-selected-search-text, #e65100);
 }
 
 /* Tag Tree Styles */
@@ -59,7 +70,7 @@
     padding: 10px;
     max-height: 400px;
     overflow-y: auto;
-    background-color: var(--st-chatu8-bg-color-lighter);
+    background-color: var(--st-chatu8-bg-tertiary, #e9e9e9);
 }
 
 .st-chatu8-tree,
@@ -87,7 +98,7 @@
 }
 
 .st-chatu8-tree-content:hover {
-    background-color: var(--st-chatu8-bg-color-hover);
+    background-color: var(--st-chatu8-bg-secondary, #eeeeee);
 }
 
 .st-chatu8-tree-toggle {
@@ -101,7 +112,7 @@
 
 .st-chatu8-tree-group {
     font-weight: bold;
-    color: var(--st-chatu8-accent-color);
+    color: var(--st-chatu8-accent-primary, #007bff);
 }
 
 .st-chatu8-tree-subgroup {
@@ -114,12 +125,24 @@
     border-radius: 3px;
     transition: background-color 0.2s;
     font-size: 0.9em;
-    color: var(--st-chatu8-text-color-secondary);
+    color: var(--st-chatu8-text-secondary, #6c757d);
 }
 
 .st-chatu8-tree-tag:hover {
-    background-color: var(--st-chatu8-accent-color);
+    background-color: var(--st-chatu8-accent-primary, #007bff);
     color: #fff;
+}
+
+/* 已选中的标签在树中高亮（颜色由主题变量控制，可在主题设置中修改） */
+.st-chatu8-tree-tag.st-chatu8-tree-tag-selected {
+    background-color: var(--st-chatu8-tag-selected-bg, #c8e6c9);
+    color: var(--st-chatu8-tag-selected-text, #1b5e20);
+    font-weight: bold;
+    box-shadow: 0 0 0 2px var(--st-chatu8-tag-selected-border, #81c784);
+}
+
+.st-chatu8-tree-tag.st-chatu8-tree-tag-selected:hover {
+    filter: brightness(0.92);
 }
 
 /* Styles for Tag Browser Input and Actions */
@@ -131,4 +154,75 @@
 
 #vocabulary-selected-tags {
     margin-bottom: 0; /* The actions div will have margin-top */
+}
+
+/* 已选标签 chip 容器（替代原 textarea） */
+.st-chatu8-tag-chips {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px;
+    min-height: 80px;
+    max-height: 120px;
+    overflow-y: auto;
+    padding: 10px;
+    background: var(--st-chatu8-bg-secondary, #eeeeee);
+    border: 1px solid var(--st-chatu8-border-color);
+    color: var(--st-chatu8-text-primary, #212529);
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+
+.st-chatu8-tag-chips-placeholder {
+    color: var(--st-chatu8-text-secondary, #6c757d);
+    opacity: 0.7;
+    font-size: 0.9em;
+    user-select: none;
+}
+
+/* 每个已选标签的“高亮小框”（颜色由主题变量控制） */
+.st-chatu8-tag-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 2px 8px;
+    background-color: var(--st-chatu8-tag-selected-bg, #c8e6c9);
+    color: var(--st-chatu8-tag-selected-text, #1b5e20);
+    border: 1px solid var(--st-chatu8-tag-selected-border, #81c784);
+    border-radius: 4px;
+    font-size: 0.85em;
+    line-height: 1.4;
+    cursor: pointer;
+    box-shadow: 0 0 0 1px var(--st-chatu8-tag-selected-border, #81c784);
+    transition: filter 0.15s, box-shadow 0.15s;
+}
+
+/* 通过搜索点击加入的标签：橙色系背景，与树点击加入（绿色）区分 */
+.st-chatu8-tag-chip.st-chatu8-tag-chip-search {
+    background-color: var(--st-chatu8-tag-selected-search-bg, #ffe0b2);
+    color: var(--st-chatu8-tag-selected-search-text, #e65100);
+    border: 1px solid var(--st-chatu8-tag-selected-search-border, #ffb74d);
+    box-shadow: 0 0 0 1px var(--st-chatu8-tag-selected-search-border, #ffb74d);
+}
+
+.st-chatu8-tag-chip:hover {
+    filter: brightness(1.1);
+    box-shadow: 0 0 0 2px var(--st-chatu8-tag-selected-border, #81c784);
+}
+
+.st-chatu8-tag-chip.st-chatu8-tag-chip-search:hover {
+    box-shadow: 0 0 0 2px var(--st-chatu8-tag-selected-search-border, #ffb74d);
+}
+
+.st-chatu8-tag-chip-remove {
+    font-weight: bold;
+    font-size: 1.1em;
+    line-height: 1;
+    opacity: 0.75;
+    cursor: pointer;
+    user-select: none;
+}
+
+.st-chatu8-tag-chip-remove:hover {
+    opacity: 1;
 }

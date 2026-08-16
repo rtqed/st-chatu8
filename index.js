@@ -1337,7 +1337,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#eeeeee",
         "--st-chatu8-dropdown-text": "#212529",
         "--st-chatu8-dropdown-list-bg": "#ffffff",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#c8e6c9",
+        "--st-chatu8-tag-selected-text": "#1b5e20",
+        "--st-chatu8-tag-selected-border": "#81c784",
+        "--st-chatu8-tag-selected-search-bg": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-text": "#e65100",
+        "--st-chatu8-tag-selected-search-border": "#ffb74d"
       },
       "\u9ED8\u8BA4-\u591C\u95F4": {
         "--st-chatu8-bg-primary": "#0a192f",
@@ -1354,7 +1360,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#172a45",
         "--st-chatu8-dropdown-text": "#ff8c00",
         "--st-chatu8-dropdown-list-bg": "#233554",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#1e4d2b",
+        "--st-chatu8-tag-selected-text": "#c8e6c9",
+        "--st-chatu8-tag-selected-border": "#3f8f56",
+        "--st-chatu8-tag-selected-search-bg": "#6d4c41",
+        "--st-chatu8-tag-selected-search-text": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-border": "#8d6e63"
       },
       "\u6DF1\u6D77\u84DD": {
         "--st-chatu8-bg-primary": "#0d1b2a",
@@ -1371,7 +1383,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#1b263b",
         "--st-chatu8-dropdown-text": "#e0e1dd",
         "--st-chatu8-dropdown-list-bg": "#415a77",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#1e4d2b",
+        "--st-chatu8-tag-selected-text": "#c8e6c9",
+        "--st-chatu8-tag-selected-border": "#3f8f56",
+        "--st-chatu8-tag-selected-search-bg": "#6d4c41",
+        "--st-chatu8-tag-selected-search-text": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-border": "#8d6e63"
       },
       "\u6A31\u82B1\u7C89": {
         "--st-chatu8-bg-primary": "#fff5f5",
@@ -1388,7 +1406,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#ffe4e6",
         "--st-chatu8-dropdown-text": "#881337",
         "--st-chatu8-dropdown-list-bg": "#fff5f5",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#c8e6c9",
+        "--st-chatu8-tag-selected-text": "#1b5e20",
+        "--st-chatu8-tag-selected-border": "#81c784",
+        "--st-chatu8-tag-selected-search-bg": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-text": "#e65100",
+        "--st-chatu8-tag-selected-search-border": "#ffb74d"
       },
       "\u68EE\u6797\u7EFF": {
         "--st-chatu8-bg-primary": "#f0fdf4",
@@ -1405,7 +1429,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#dcfce7",
         "--st-chatu8-dropdown-text": "#14532d",
         "--st-chatu8-dropdown-list-bg": "#f0fdf4",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#9fdfb0",
+        "--st-chatu8-tag-selected-text": "#0d3b17",
+        "--st-chatu8-tag-selected-border": "#58b46c",
+        "--st-chatu8-tag-selected-search-bg": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-text": "#e65100",
+        "--st-chatu8-tag-selected-search-border": "#ffb74d"
       },
       "\u85B0\u8863\u8349": {
         "--st-chatu8-bg-primary": "#faf5ff",
@@ -1422,7 +1452,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#f3e8ff",
         "--st-chatu8-dropdown-text": "#581c87",
         "--st-chatu8-dropdown-list-bg": "#faf5ff",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#c8e6c9",
+        "--st-chatu8-tag-selected-text": "#1b5e20",
+        "--st-chatu8-tag-selected-border": "#81c784",
+        "--st-chatu8-tag-selected-search-bg": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-text": "#e65100",
+        "--st-chatu8-tag-selected-search-border": "#ffb74d"
       },
       "\u7425\u73C0\u6A59": {
         "--st-chatu8-bg-primary": "#fffbeb",
@@ -1439,7 +1475,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#fef3c7",
         "--st-chatu8-dropdown-text": "#78350f",
         "--st-chatu8-dropdown-list-bg": "#fffbeb",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#d6e8c6",
+        "--st-chatu8-tag-selected-text": "#4a3b12",
+        "--st-chatu8-tag-selected-border": "#8fae6b",
+        "--st-chatu8-tag-selected-search-bg": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-text": "#e65100",
+        "--st-chatu8-tag-selected-search-border": "#ffb74d"
       },
       "\u8D5B\u535A\u670B\u514B": {
         "--st-chatu8-bg-primary": "#0f0f23",
@@ -1456,7 +1498,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#1a1a3e",
         "--st-chatu8-dropdown-text": "#00ff9f",
         "--st-chatu8-dropdown-list-bg": "#2d2d5a",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#123f2e",
+        "--st-chatu8-tag-selected-text": "#7dffc4",
+        "--st-chatu8-tag-selected-border": "#23c483",
+        "--st-chatu8-tag-selected-search-bg": "#6d4c41",
+        "--st-chatu8-tag-selected-search-text": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-border": "#8d6e63"
       },
       "\u83AB\u5170\u8FEA": {
         "--st-chatu8-bg-primary": "#e8e4df",
@@ -1473,7 +1521,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#d4cfc7",
         "--st-chatu8-dropdown-text": "#5c574f",
         "--st-chatu8-dropdown-list-bg": "#e8e4df",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#c9d8c2",
+        "--st-chatu8-tag-selected-text": "#3d5238",
+        "--st-chatu8-tag-selected-border": "#93a88c",
+        "--st-chatu8-tag-selected-search-bg": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-text": "#e65100",
+        "--st-chatu8-tag-selected-search-border": "#ffb74d"
       },
       "\u6697\u591C\u7D2B": {
         "--st-chatu8-bg-primary": "#13111c",
@@ -1490,7 +1544,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#1e1b2e",
         "--st-chatu8-dropdown-text": "#e2e0f0",
         "--st-chatu8-dropdown-list-bg": "#2d2844",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#1e3b2a",
+        "--st-chatu8-tag-selected-text": "#b7e4c7",
+        "--st-chatu8-tag-selected-border": "#3f8f56",
+        "--st-chatu8-tag-selected-search-bg": "#6d4c41",
+        "--st-chatu8-tag-selected-search-text": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-border": "#8d6e63"
       },
       "\u51B0\u5DDD\u84DD": {
         "--st-chatu8-bg-primary": "#f0f9ff",
@@ -1507,7 +1567,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#e0f2fe",
         "--st-chatu8-dropdown-text": "#0c4a6e",
         "--st-chatu8-dropdown-list-bg": "#f0f9ff",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#c4e6dc",
+        "--st-chatu8-tag-selected-text": "#0f4c43",
+        "--st-chatu8-tag-selected-border": "#7fc4b8",
+        "--st-chatu8-tag-selected-search-bg": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-text": "#e65100",
+        "--st-chatu8-tag-selected-search-border": "#ffb74d"
       },
       "\u6696\u6C99\u68D5": {
         "--st-chatu8-bg-primary": "#fefcfb",
@@ -1524,7 +1590,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#f5ebe0",
         "--st-chatu8-dropdown-text": "#3d2c1e",
         "--st-chatu8-dropdown-list-bg": "#fefcfb",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#d3e6c8",
+        "--st-chatu8-tag-selected-text": "#3d5238",
+        "--st-chatu8-tag-selected-border": "#93ab7f",
+        "--st-chatu8-tag-selected-search-bg": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-text": "#e65100",
+        "--st-chatu8-tag-selected-search-border": "#ffb74d"
       },
       "\u6781\u5149\u7EFF": {
         "--st-chatu8-bg-primary": "#0a1612",
@@ -1541,7 +1613,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#132520",
         "--st-chatu8-dropdown-text": "#6ee7b7",
         "--st-chatu8-dropdown-list-bg": "#1d3830",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#123f2e",
+        "--st-chatu8-tag-selected-text": "#a7f3d0",
+        "--st-chatu8-tag-selected-border": "#2fae6e",
+        "--st-chatu8-tag-selected-search-bg": "#6d4c41",
+        "--st-chatu8-tag-selected-search-text": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-border": "#8d6e63"
       },
       "\u73AB\u7470\u91D1": {
         "--st-chatu8-bg-primary": "#1a1515",
@@ -1558,7 +1636,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#2a2020",
         "--st-chatu8-dropdown-text": "#f4d4c4",
         "--st-chatu8-dropdown-list-bg": "#3a2d2d",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#2e4a33",
+        "--st-chatu8-tag-selected-text": "#c8e6c9",
+        "--st-chatu8-tag-selected-border": "#4d8b5d",
+        "--st-chatu8-tag-selected-search-bg": "#6d4c41",
+        "--st-chatu8-tag-selected-search-text": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-border": "#8d6e63"
       },
       "\u7EAF\u51C0\u767D": {
         "--st-chatu8-bg-primary": "#ffffff",
@@ -1575,7 +1659,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#f8f9fa",
         "--st-chatu8-dropdown-text": "#212529",
         "--st-chatu8-dropdown-list-bg": "#ffffff",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#c8e6c9",
+        "--st-chatu8-tag-selected-text": "#1b5e20",
+        "--st-chatu8-tag-selected-border": "#81c784",
+        "--st-chatu8-tag-selected-search-bg": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-text": "#e65100",
+        "--st-chatu8-tag-selected-search-border": "#ffb74d"
       },
       "\u58A8\u7389\u9ED1": {
         "--st-chatu8-bg-primary": "#121212",
@@ -1592,7 +1682,13 @@ var init_themePresets = __esm({
         "--st-chatu8-dropdown-bg": "#1e1e1e",
         "--st-chatu8-dropdown-text": "#e0e0e0",
         "--st-chatu8-dropdown-list-bg": "#2d2d2d",
-        "--st-chatu8-text-highlight": "#ffffff"
+        "--st-chatu8-text-highlight": "#ffffff",
+        "--st-chatu8-tag-selected-bg": "#1e4d2b",
+        "--st-chatu8-tag-selected-text": "#c8e6c9",
+        "--st-chatu8-tag-selected-border": "#3f8f56",
+        "--st-chatu8-tag-selected-search-bg": "#6d4c41",
+        "--st-chatu8-tag-selected-search-text": "#ffe0b2",
+        "--st-chatu8-tag-selected-search-border": "#8d6e63"
       }
     };
   }
@@ -4283,12 +4379,52 @@ async function deleteImagesByUuids(uuids) {
     await setMetadata(metadata);
   }
 }
+// 旧版本词库文件名：重构前的平面词库（danbooru_001~025）与旧层级词库（tag_NSFW001.json）。
+// 它们不在当前文件列表中，无法从 UI 卸载，记录会永久残留在 IndexedDB 并混入标签树/搜索，
+// 因此每次安装词库时统一清理，避免旧数据（如已移除的 tentacle 标签）重新出现。
+const LEGACY_VOCAB_FILE_NAMES = Array.from({ length: 25 }, (_, i) => `danbooru_${String(i + 1).padStart(3, "0")}.json`).concat("tag_NSFW001.json");
+async function deleteLegacyVocabRecords(transaction) {
+  const storesToClean = ["vocabularies", "groups", "subgroups", "tags"];
+  for (const storeName of storesToClean) {
+    if (!transaction.objectStoreNames.contains(storeName)) {
+      continue;
+    }
+    const store = transaction.objectStore(storeName);
+    for (const legacyName of LEGACY_VOCAB_FILE_NAMES) {
+      if (storeName === "vocabularies") {
+        // vocabularies 的 keyPath 是 fileName，直接删主键
+        await new Promise((resolve, reject) => {
+          const req = store.delete(legacyName);
+          req.onsuccess = resolve;
+          req.onerror = reject;
+        });
+      } else {
+        const index = store.index("fileName");
+        const keysToDelete = [];
+        await new Promise((resolve, reject) => {
+          const req = index.openKeyCursor(IDBKeyRange.only(legacyName));
+          req.onsuccess = (event) => {
+            const cursor = event.target.result;
+            if (cursor) {
+              keysToDelete.push(cursor.primaryKey);
+              cursor.continue();
+            } else {
+              Promise.all(keysToDelete.map((key) => store.delete(key))).then(resolve).catch(reject);
+            }
+          };
+          req.onerror = (event) => reject(event.target.error);
+        });
+      }
+    }
+  }
+}
 async function installVocabulary(fileName, data) {
   const db2 = await openDB();
   const isHierarchical = data.tag_groups && data.tag_groups.length > 0 || data.tag_tags && data.tag_tags.length > 0;
   const storesToClear = isHierarchical ? ["vocabularies", "groups", "subgroups", "tags"] : ["vocabularies", "tags"];
   const transaction = db2.transaction(storesToClear, "readwrite");
   const vocabStore = transaction.objectStore("vocabularies");
+  await deleteLegacyVocabRecords(transaction);
   const tagsStore = transaction.objectStore("tags");
   const groupsStore = isHierarchical ? transaction.objectStore("groups") : null;
   const subgroupsStore = isHierarchical ? transaction.objectStore("subgroups") : null;
@@ -4322,24 +4458,19 @@ async function installVocabulary(fileName, data) {
   if (isHierarchical) {
     const { tag_groups, tag_tags } = data;
     if (tag_groups && tag_groups.length === 1 && (!tag_groups[0].subgroups || tag_groups[0].subgroups.length === 0)) {
+      // 单组词库（如 tag_NSFW.json）：不创建虚拟子组，tag 直接挂组下（树中为 2 级）
+      // 组 id 高位化，避免与 tags.json 的组 id 在 groups store（keyPath: id_index）中冲突
       const group = tag_groups[0];
-      const virtualSubgroup = {
-        id_index: group.id_index,
-        // 复用 group 的 id_index
-        group_id: group.id_index,
-        name: group.name,
-        // 复用 group 的 name
-        fileName
-      };
-      subgroupsStore.put(virtualSubgroup);
+      const flatGroupId = 90001 + (group.id_index || 0);
+      group.id_index = flatGroupId;
       if (tag_tags) {
         totalTags = tag_tags.length;
         for (const tag of tag_tags) {
           const newTag = {
             name: tag.text,
             translation: tag.desc,
-            subgroup_id: virtualSubgroup.id_index,
-            // 强制关联
+            subgroup_id: flatGroupId,
+            // 关联到组 id（无子组）
             hot: -1,
             fileName
           };
@@ -4349,15 +4480,19 @@ async function installVocabulary(fileName, data) {
       const { subgroups, ...groupData } = group;
       groupsStore.put({ ...groupData, fileName });
     } else {
+      // 多子组词库。非 tags.json 的词库（如 NSFW）组/子组 id 全部高位化，
+      // 避免与 tags.json 的组/子组在 groups/subgroups store（keyPath: id_index）中冲突。
+      const idOffset = fileName === "tags.json" ? 0 : 90000;
       if (tag_groups) {
         for (const group of tag_groups) {
+          const newGroupId = group.id_index + idOffset;
           if (group.subgroups && Array.isArray(group.subgroups)) {
             for (const subgroup of group.subgroups) {
-              subgroupsStore.put({ ...subgroup, group_id: group.id_index, fileName });
+              subgroupsStore.put({ ...subgroup, id_index: subgroup.id_index + idOffset, group_id: newGroupId, fileName });
             }
           }
           const { subgroups, ...groupData } = group;
-          groupsStore.put({ ...groupData, fileName });
+          groupsStore.put({ ...groupData, id_index: newGroupId, fileName });
         }
       }
       if (tag_tags) {
@@ -4366,7 +4501,7 @@ async function installVocabulary(fileName, data) {
           const newTag = {
             name: tag.text,
             translation: tag.desc,
-            subgroup_id: tag.subgroup_id,
+            subgroup_id: tag.subgroup_id + idOffset,
             hot: -1,
             fileName
           };
@@ -4397,9 +4532,10 @@ async function installVocabulary(fileName, data) {
 }
 async function uninstallVocabulary(fileName) {
   const db2 = await openDB();
-  const isHierarchical = fileName === "tags.json";
+  const isHierarchical = fileName === "tags.json" || fileName === "tag_NSFW.json";
   const storesToClear = isHierarchical ? ["vocabularies", "groups", "subgroups", "tags"] : ["vocabularies", "tags"];
   const transaction = db2.transaction(storesToClear, "readwrite");
+  await deleteLegacyVocabRecords(transaction);
   for (const storeName of storesToClear) {
     if (storeName === "vocabularies") {
       await new Promise((resolve, reject) => {
@@ -4444,13 +4580,16 @@ async function getInstalledVocabularies() {
     };
   });
 }
+// 标签树只展示这两个结构化词库的数据。
+// 旧版本词库（tag_NSFW001.json 等）若残留在 IndexedDB，其 groups/subgroups/tags 记录会被过滤掉，不会混入树中。
+const TREE_SOURCE_FILES = new Set(["tags.json", "tag_NSFW.json"]);
 async function getTagsTreeData() {
   const db2 = await openDB();
   const transaction = db2.transaction(["groups", "subgroups", "tags"], "readonly");
   const groupsStore = transaction.objectStore("groups");
   const subgroupsStore = transaction.objectStore("subgroups");
   const tagsStore = transaction.objectStore("tags");
-  const [groups, subgroups, tags] = await Promise.all([
+  const [allGroups, allSubgroups, allTags] = await Promise.all([
     new Promise((res, rej) => {
       const r = groupsStore.getAll();
       r.onsuccess = () => res(r.result);
@@ -4467,6 +4606,9 @@ async function getTagsTreeData() {
       r.onerror = rej;
     })
   ]);
+  const groups = allGroups.filter((g) => TREE_SOURCE_FILES.has(g.fileName));
+  const subgroups = allSubgroups.filter((sg) => TREE_SOURCE_FILES.has(sg.fileName));
+  const tags = allTags.filter((t) => TREE_SOURCE_FILES.has(t.fileName));
   const subgroupsByGroup = subgroups.reduce((acc, sg) => {
     if (!acc[sg.group_id]) acc[sg.group_id] = [];
     acc[sg.group_id].push(sg);
@@ -4480,6 +4622,8 @@ async function getTagsTreeData() {
   const finalTree = {
     tag_groups: groups.map((g) => ({
       ...g,
+      // 组直接挂 tag（单组词库如 NSFW 无子组时用）
+      tags: tagsBySubgroup[g.id_index] || [],
       subgroups: (subgroupsByGroup[g.id_index] || []).map((sg) => ({
         ...sg,
         tags: tagsBySubgroup[sg.id_index] || []
@@ -4500,12 +4644,25 @@ async function searchTags(keyword, options = {}) {
   const { startsWith = false, limit = 100, sortBy = "hot_asc" } = options;
   const lowerCaseKeyword = keyword.toLowerCase();
   const db2 = await openDB();
-  const transaction = db2.transaction("tags", "readonly");
+  const transaction = db2.transaction(["tags", "vocabularies"], "readonly");
   const store = transaction.objectStore("tags");
+  // 只搜索已安装词库中的标签；旧版本词库（danbooru_001~025 等）残留记录不参与搜索。
+  // fileName 为 manual 的是用户手动添加的标签，始终可搜索。
+  const installedVocabs = await new Promise((res, rej) => {
+    const r = transaction.objectStore("vocabularies").getAll();
+    r.onsuccess = () => res(r.result);
+    r.onerror = rej;
+  });
+  const allowedFileNames = new Set(installedVocabs.map((item) => item.fileName));
+  allowedFileNames.add("manual");
   const allMatches = /* @__PURE__ */ new Map();
   const processCursor = (cursor) => {
     if (cursor) {
       const tag = cursor.value;
+      if (!allowedFileNames.has(tag.fileName)) {
+        cursor.continue();
+        return;
+      }
       let nameMatch = false;
       let translationMatch = false;
       if (startsWith) {
@@ -11672,6 +11829,20 @@ function initThemeSettings(settingsModal) {
   for (const themeId in defaultThemes) {
     if (!settings.themes.hasOwnProperty(themeId)) {
       settings.themes[themeId] = JSON.parse(JSON.stringify(defaultThemes[themeId]));
+    } else {
+      // 老版本保存的主题缺少新变量（如标签选中色），从默认预设补齐
+      const saved = settings.themes[themeId];
+      const preset = defaultThemes[themeId];
+      let migrated = false;
+      for (const key in preset) {
+        if (saved[key] === void 0) {
+          saved[key] = preset[key];
+          migrated = true;
+        }
+      }
+      if (migrated) {
+        saveSettingsDebounced4();
+      }
     }
   }
   loadThemeSettings();
@@ -11713,7 +11884,13 @@ var init_theme = __esm({
       "--st-chatu8-text-highlight": "\u9AD8\u4EAE\u6587\u672C\u989C\u8272",
       "--st-chatu8-input-bg": "\u8F93\u5165\u6846\u80CC\u666F\u8272",
       "--st-chatu8-input-text": "\u8F93\u5165\u6846\u6587\u672C\u989C\u8272",
-      "--st-chatu8-input-border": "\u8F93\u5165\u6846\u8FB9\u6846\u989C\u8272"
+      "--st-chatu8-input-border": "\u8F93\u5165\u6846\u8FB9\u6846\u989C\u8272",
+      "--st-chatu8-tag-selected-bg": "\u6807\u7B7E\u9009\u4E2D\u80CC\u666F\u8272",
+      "--st-chatu8-tag-selected-text": "\u6807\u7B7E\u9009\u4E2D\u6587\u5B57\u8272",
+      "--st-chatu8-tag-selected-border": "\u6807\u7B7E\u9009\u4E2D\u63CF\u8FB9\u8272",
+      "--st-chatu8-tag-selected-search-bg": "\u641C\u7D22\u9009\u4E2D\u80CC\u666F\u8272",
+      "--st-chatu8-tag-selected-search-text": "\u641C\u7D22\u9009\u4E2D\u6587\u5B57\u8272",
+      "--st-chatu8-tag-selected-search-border": "\u641C\u7D22\u9009\u4E2D\u63CF\u8FB9\u8272"
     };
   }
 });
@@ -47208,10 +47385,10 @@ var init_vocabularySettingsModule = __esm({
 \u25A0 \u8BCD\u5E93\u7BA1\u7406\u547D\u4EE4
 
 \u5B89\u88C5\u6307\u5B9A\u8BCD\u5E93\u6587\u4EF6\uFF1A
-<SystemQuery>{"type": "ui_action", "action": "vocabulary_install", "fileName": "danbooru_001.json"}</SystemQuery>
+<SystemQuery>{"type": "ui_action", "action": "vocabulary_install", "fileName": "general_1.json"}</SystemQuery>
 
 \u5378\u8F7D\u6307\u5B9A\u8BCD\u5E93\u6587\u4EF6\uFF1A
-<SystemQuery>{"type": "ui_action", "action": "vocabulary_uninstall", "fileName": "danbooru_001.json"}</SystemQuery>
+<SystemQuery>{"type": "ui_action", "action": "vocabulary_uninstall", "fileName": "general_1.json"}</SystemQuery>
 
 \u5B89\u88C5\u6240\u6709\u8BCD\u5E93\uFF1A
 <SystemQuery>{"type": "ui_action", "action": "vocabulary_install_all"}</SystemQuery>
@@ -47258,9 +47435,11 @@ var init_vocabularySettingsModule = __esm({
 \u25A0 \u8BCD\u5E93\u7BA1\u7406\u533A\u57DF
 - \u8BCD\u5E93\u6587\u4EF6\uFF1A\u5305\u542B\u5927\u91CF\u9884\u5B9A\u4E49\u7684\u6807\u7B7E\u53CA\u5176\u7FFB\u8BD1
 - \u53EF\u7528\u8BCD\u5E93\u5217\u8868\uFF1A
-  * danbooru_001.json ~ danbooru_025.json\uFF1ADanbooru \u6807\u7B7E\u5E93\uFF08\u517125\u4E2A\u6587\u4EF6\uFF09
-  * tags.json\uFF1A\u7ED3\u6784\u5316\u6807\u7B7E\u6811\u6570\u636E\uFF08\u7528\u4E8E\u6807\u7B7E\u6D4F\u89C8\u5668\uFF09
-  * tag_NSFW001.json\uFF1ANSFW \u6807\u7B7E\u5E93
+  * general_1.json ~ general_5.json：Danbooru 通用标签库（按热度分 5 个文件）
+  * character_1.json ~ character_6.json：角色标签库（按热度分 6 个文件）
+  * copyright_1.json ~ copyright_3.json：版权作品标签库（按热度分 3 个文件）
+  * tags.json：结构化标签树数据（用于标签浏览器）
+  * tag_NSFW.json：NSFW 标签库
 - \u5B89\u88C5/\u5378\u8F7D\uFF1A
   * \u5B89\u88C5\uFF1A\u5C06\u8BCD\u5E93\u6587\u4EF6\u52A0\u8F7D\u5230\u672C\u5730\u6570\u636E\u5E93\uFF08IndexedDB\uFF09
   * \u5378\u8F7D\uFF1A\u4ECE\u672C\u5730\u6570\u636E\u5E93\u5220\u9664\u8BCD\u5E93\u6570\u636E
@@ -47347,7 +47526,7 @@ var init_vocabularySettingsModule = __esm({
 \u25A0 \u9996\u6B21\u4F7F\u7528\u6D41\u7A0B\uFF1A
 1. \u5207\u6362\u5230\u8BCD\u5E93\u8BBE\u7F6E\u9875\u9762
 2. \u6839\u636E\u9700\u6C42\u5B89\u88C5\u8BCD\u5E93\u6587\u4EF6\uFF1A
-   - \u79FB\u52A8\u7AEF\uFF1A\u5B89\u88C5 3-4 \u4E2A danbooru \u6587\u4EF6 + tags.json
+   - \u79FB\u52A8\u7AEF\uFF1A\u5B89\u88C5 3-4 \u4E2A\u8BCD\u5E93\u6587\u4EF6 + tags.json
    - \u684C\u9762\u7AEF\uFF1A\u53EF\u4EE5\u5B89\u88C5\u5168\u90E8\u8BCD\u5E93
 3. \u5FC5\u987B\u5B89\u88C5 tags.json \u4EE5\u542F\u7528\u6807\u7B7E\u6D4F\u89C8\u5668
 4. \u6D4B\u8BD5\u641C\u7D22\u529F\u80FD\u786E\u8BA4\u5B89\u88C5\u6210\u529F
@@ -76055,9 +76234,41 @@ var VOCABULARY_MANUAL_TAGS_EXPORT_BTN;
 var VOCABULARY_MANUAL_TAGS_IMPORT_BTN;
 var VOCABULARY_MANUAL_TAGS_IMPORT_INPUT;
 var VOCABULARY_MANUAL_TAGS_FILTER_INPUT;
+var VOCABULARY_PRESET_SELECT;
+var VOCABULARY_PRESET_NAME_INPUT;
+var VOCABULARY_PRESET_SAVE_BTN;
+var VOCABULARY_PRESET_LOAD_BTN;
+var VOCABULARY_PRESET_DELETE_BTN;
 var cachedTagTreeData = null;
+var selectedTagsList = []; // 已选标签文本（顺序，即 chip 顺序）
+var selectedTagKeys = new Set(); // 已选标签去重（与树高亮共用）
+var selectedTagSearchKeys = new Set(); // 通过搜索加入的标签（chip 用橙色系背景，与树来源的绿色区分）
+var tagElementsByKey = new Map(); // 树中 tag 元素映射：标签文本 -> 元素数组
 var TAG_DATA_PATH = `${extensionFolderPath}/tagData/`;
 var encryptionKey = "a-very-secret-key-that-is-not-so-secret";
+function renderTagList(tagList, tags) {
+  tags.forEach((tag) => {
+    const tagItem = document.createElement("li");
+    tagItem.className = "st-chatu8-tree-tag";
+    tagItem.textContent = `${tag.text} (${tag.desc})`;
+    const tagKey = getTagKey(tag);
+    if (!tagElementsByKey.has(tagKey)) {
+      tagElementsByKey.set(tagKey, []);
+    }
+    tagElementsByKey.get(tagKey).push(tagItem);
+    if (selectedTagKeys.has(tagKey)) {
+      tagItem.classList.add("st-chatu8-tree-tag-selected");
+    }
+    tagItem.onclick = () => {
+      if (selectedTagKeys.has(tagKey)) {
+        removeSelectedTag(tagKey);
+      } else {
+        addSelectedTag(tagKey);
+      }
+    };
+    tagList.appendChild(tagItem);
+  });
+}
 async function buildTagTree() {
   try {
     const installed = await dbs.getInstalledVocabularies();
@@ -76085,6 +76296,7 @@ async function buildTagTree() {
       acc[tag.subgroup_id].push(tag);
       return acc;
     }, {});
+    tagElementsByKey.clear();
     const tree = document.createElement("ul");
     tree.className = "st-chatu8-tree";
     tag_groups.forEach((group) => {
@@ -76123,21 +76335,7 @@ async function buildTagTree() {
           tagList.className = "st-chatu8-tree-taglist";
           tagList.style.display = "none";
           const tags = tagsBySubgroupId[subgroup.id_index] || [];
-          tags.forEach((tag) => {
-            const tagItem = document.createElement("li");
-            tagItem.className = "st-chatu8-tree-tag";
-            tagItem.textContent = `${tag.text} (${tag.desc})`;
-            tagItem.onclick = () => {
-              const currentTags = VOCABULARY_SELECTED_TAGS.value.trim();
-              const newTag = `${tag.text}(${tag.desc})`;
-              if (currentTags) {
-                VOCABULARY_SELECTED_TAGS.value = `${currentTags}, ${newTag}`;
-              } else {
-                VOCABULARY_SELECTED_TAGS.value = newTag;
-              }
-            };
-            tagList.appendChild(tagItem);
-          });
+          renderTagList(tagList, tags);
           if (tags.length > 0) {
             subgroupItem.appendChild(tagList);
             subgroupContent.onclick = () => {
@@ -76150,6 +76348,14 @@ async function buildTagTree() {
           }
           subgroupList.appendChild(subgroupItem);
         });
+      } else if (group.tags && group.tags.length > 0) {
+        // 单组词库（如 NSFW）：组下直接渲染 tag，不经过子组（2 级结构）。
+        // 显隐由 groupContent.onclick 切换的 subgroupList 统一控制，这里不能再设 display:none，
+        // 否则标签列表永远隐藏（组展开后也看不到）。
+        const flatTagList = document.createElement("ul");
+        flatTagList.className = "st-chatu8-tree-taglist";
+        renderTagList(flatTagList, group.tags);
+        subgroupList.appendChild(flatTagList);
       }
       groupItem.appendChild(subgroupList);
       groupContent.onclick = () => {
@@ -76167,36 +76373,195 @@ async function buildTagTree() {
     showToast("\u52A0\u8F7D\u6807\u7B7E\u6D4F\u89C8\u5668\u5931\u8D25", "error");
   }
 }
+function getTagKey(tag) {
+  return `${tag.text}(${tag.desc})`;
+}
+function refreshTreeTagHighlight(tagKey, isSelected) {
+  const elements = tagElementsByKey.get(tagKey) || [];
+  elements.forEach((el) => {
+    el.classList.toggle("st-chatu8-tree-tag-selected", isSelected);
+  });
+}
+function renderSelectedTags() {
+  VOCABULARY_SELECTED_TAGS.innerHTML = "";
+  if (selectedTagsList.length === 0) {
+    const placeholder = document.createElement("span");
+    placeholder.className = "st-chatu8-tag-chips-placeholder";
+    placeholder.textContent = "\u70B9\u51FB\u4E0B\u65B9\u7684\u6807\u7B7E\u5C06\u4F1A\u6DFB\u52A0\u5230\u8FD9\u91CC...";
+    VOCABULARY_SELECTED_TAGS.appendChild(placeholder);
+    return;
+  }
+  selectedTagsList.forEach((tagText) => {
+    const chip = document.createElement("span");
+    chip.className = "st-chatu8-tag-chip";
+    if (selectedTagSearchKeys.has(tagText)) {
+      // 通过搜索点击加入的标签：橙色系背景，与树点击（绿色）区分
+      chip.classList.add("st-chatu8-tag-chip-search");
+    }
+    chip.title = "\u70B9\u51FB\u79FB\u9664\u8BE5\u6807\u7B7E";
+    chip.onclick = () => removeSelectedTag(tagText);
+    const label = document.createElement("span");
+    label.className = "st-chatu8-tag-chip-label";
+    label.textContent = tagText;
+    const remove = document.createElement("span");
+    remove.className = "st-chatu8-tag-chip-remove";
+    remove.textContent = "\u00D7";
+    remove.title = "\u79FB\u9664\u8BE5\u6807\u7B7E";
+    remove.onclick = (e) => {
+      e.stopPropagation();
+      removeSelectedTag(tagText);
+    };
+    chip.appendChild(label);
+    chip.appendChild(remove);
+    VOCABULARY_SELECTED_TAGS.appendChild(chip);
+  });
+}
+function addSelectedTag(tagText, fromSearch = false) {
+  if (selectedTagKeys.has(tagText)) {
+    return false;
+  }
+  selectedTagsList.push(tagText);
+  selectedTagKeys.add(tagText);
+  if (fromSearch) {
+    selectedTagSearchKeys.add(tagText);
+  }
+  renderSelectedTags();
+  refreshTreeTagHighlight(tagText, true);
+  refreshSearchTagHighlight(tagText, true);
+  return true;
+}
+function removeSelectedTag(tagText) {
+  const index = selectedTagsList.indexOf(tagText);
+  if (index === -1) {
+    return false;
+  }
+  selectedTagsList.splice(index, 1);
+  selectedTagKeys.delete(tagText);
+  selectedTagSearchKeys.delete(tagText);
+  renderSelectedTags();
+  refreshTreeTagHighlight(tagText, false);
+  refreshSearchTagHighlight(tagText, false);
+  return true;
+}
+// 搜索结果项的高亮（与标签浏览器树选中色区分）
+function refreshSearchTagHighlight(tagKey, isSelected) {
+  document.querySelectorAll(".st-chatu8-search-result-item").forEach((el) => {
+    if (el.dataset.key === tagKey) {
+      el.classList.toggle("st-chatu8-search-tag-selected", isSelected);
+    }
+  });
+}
+// ===== 标签设定保存（个人数据，存于 ST 数据目录 settings.json，不进入仓库） =====
+function getTagPresets() {
+  const s = extension_settings[extensionName];
+  if (!s || typeof s !== "object") {
+    return {};
+  }
+  if (!s.vocabulary_tag_presets || typeof s.vocabulary_tag_presets !== "object") {
+    s.vocabulary_tag_presets = {};
+  }
+  return s.vocabulary_tag_presets;
+}
+function renderPresetSelect() {
+  VOCABULARY_PRESET_SELECT.innerHTML = "";
+  const presets = getTagPresets();
+  const names = Object.keys(presets).sort((a, b) => a.localeCompare(b, "zh"));
+  if (names.length === 0) {
+    const emptyOption = document.createElement("option");
+    emptyOption.value = "";
+    emptyOption.textContent = "（无）";
+    emptyOption.disabled = true;
+    emptyOption.selected = true;
+    VOCABULARY_PRESET_SELECT.appendChild(emptyOption);
+    return;
+  }
+  names.forEach((name) => {
+    const tags = presets[name];
+    const option = document.createElement("option");
+    option.value = name;
+    option.textContent = Array.isArray(tags) ? `${name}（${tags.length} 个标签）` : `${name}`;
+    VOCABULARY_PRESET_SELECT.appendChild(option);
+  });
+}
+function handlePresetSave() {
+  if (selectedTagsList.length === 0) {
+    showToast("\u5F53\u524D\u6CA1\u6709\u9009\u4E2D\u7684\u6807\u7B7E\uFF0C\u65E0\u6CD5\u4FDD\u5B58", "info");
+    return;
+  }
+  let name = VOCABULARY_PRESET_NAME_INPUT.value.trim();
+  if (!name) {
+    const now = new Date();
+    const pad = (n) => String(n).padStart(2, "0");
+    name = `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())} ${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
+  }
+  const presets = getTagPresets();
+  presets[name] = [...selectedTagsList];
+  saveSettingsDebounced();
+  renderPresetSelect();
+  VOCABULARY_PRESET_SELECT.value = name;
+  VOCABULARY_PRESET_NAME_INPUT.value = "";
+  showToast(`\u5DF2\u4FDD\u5B58\u6807\u7B7E\u8BBE\u5B9A\u300C${name}\u300D\uFF08${selectedTagsList.length} \u4E2A\u6807\u7B7E\uFF09`, "success");
+}
+function handlePresetLoad() {
+  const name = VOCABULARY_PRESET_SELECT.value;
+  if (!name) {
+    showToast("\u8BF7\u5148\u9009\u62E9\u4E00\u4E2A\u5DF2\u4FDD\u5B58\u7684\u8BBE\u5B9A", "info");
+    return;
+  }
+  const tags = getTagPresets()[name];
+  if (!Array.isArray(tags)) {
+    showToast("\u8BE5\u8BBE\u5B9A\u6570\u636E\u65E0\u6548", "error");
+    return;
+  }
+  // 清空当前选择
+  selectedTagsList.forEach((tagText) => refreshTreeTagHighlight(tagText, false));
+  selectedTagsList = [];
+  selectedTagKeys.clear();
+  selectedTagSearchKeys.clear();
+  // 载入设定（去重后按原顺序恢复）
+  tags.forEach((tagText) => {
+    if (!selectedTagKeys.has(tagText)) {
+      selectedTagsList.push(tagText);
+      selectedTagKeys.add(tagText);
+    }
+  });
+  selectedTagsList.forEach((tagText) => refreshTreeTagHighlight(tagText, true));
+  renderSelectedTags();
+  showToast(`\u5DF2\u8F7D\u5165\u300C${name}\u300D\uFF08${selectedTagsList.length} \u4E2A\u6807\u7B7E\uFF09`, "success");
+}
+function handlePresetDelete() {
+  const name = VOCABULARY_PRESET_SELECT.value;
+  if (!name) {
+    showToast("\u8BF7\u5148\u9009\u62E9\u4E00\u4E2A\u5DF2\u4FDD\u5B58\u7684\u8BBE\u5B9A", "info");
+    return;
+  }
+  if (!confirm(`\u786E\u5B9A\u8981\u5220\u9664\u6807\u7B7E\u8BBE\u5B9A\u300C${name}\u300D\u5417\uFF1F`)) {
+    return;
+  }
+  delete getTagPresets()[name];
+  saveSettingsDebounced();
+  renderPresetSelect();
+  showToast(`\u5DF2\u5220\u9664\u6807\u7B7E\u8BBE\u5B9A\u300C${name}\u300D`, "success");
+}
 async function fetchTagDataFiles() {
   try {
     const fileNames = [
-      "danbooru_001.json",
-      "danbooru_002.json",
-      "danbooru_003.json",
-      "danbooru_004.json",
-      "danbooru_005.json",
-      "danbooru_006.json",
-      "danbooru_007.json",
-      "danbooru_008.json",
-      "danbooru_009.json",
-      "danbooru_010.json",
-      "danbooru_011.json",
-      "danbooru_012.json",
-      "danbooru_013.json",
-      "danbooru_014.json",
-      "danbooru_015.json",
-      "danbooru_016.json",
-      "danbooru_017.json",
-      "danbooru_018.json",
-      "danbooru_019.json",
-      "danbooru_020.json",
-      "danbooru_021.json",
-      "danbooru_022.json",
-      "danbooru_023.json",
-      "danbooru_024.json",
-      "danbooru_025.json",
+      "general_1.json",
+      "general_2.json",
+      "general_3.json",
+      "general_4.json",
+      "general_5.json",
+      "character_1.json",
+      "character_2.json",
+      "character_3.json",
+      "character_4.json",
+      "character_5.json",
+      "character_6.json",
+      "copyright_1.json",
+      "copyright_2.json",
+      "copyright_3.json",
       "tags.json",
-      "tag_NSFW001.json"
+      "tag_NSFW.json"
     ];
     return fileNames.map((name) => ({ name }));
   } catch (error) {
@@ -76256,7 +76621,8 @@ async function installVocabulary2(fileName) {
   }
   try {
     showToast(`\u6B63\u5728\u5B89\u88C5 ${fileName}...`, "info");
-    const response = await fetch(`${TAG_DATA_PATH}${fileName}`);
+    // cache: 'no-store'——强制拉取服务器最新词库文件，避免浏览器缓存导致安装到旧结构数据
+    const response = await fetch(`${TAG_DATA_PATH}${fileName}`, { cache: "no-store" });
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
@@ -76273,7 +76639,7 @@ async function installVocabulary2(fileName) {
     const tagCount = vocabInfo ? vocabInfo.tagCount : 0;
     showToast(`${fileName} \u5B89\u88C5\u6210\u529F\uFF0C\u5305\u542B ${tagCount} \u4E2A\u6807\u7B7E`, "success");
     await renderVocabularyList();
-    if (fileName === "tags.json") {
+    if (fileName === "tags.json" || fileName === "tag_NSFW.json") {
       cachedTagTreeData = null;
       await buildTagTree();
     }
@@ -76291,7 +76657,8 @@ async function uninstallVocabulary2(fileName) {
     await dbs.uninstallVocabulary(fileName);
     showToast(`${fileName} \u5378\u8F7D\u6210\u529F`, "success");
     await renderVocabularyList();
-    if (fileName === "tags.json") {
+    if (fileName === "tags.json" || fileName === "tag_NSFW.json") {
+      cachedTagTreeData = null;
       await buildTagTree();
     }
   } catch (error) {
@@ -76348,10 +76715,17 @@ async function searchTags2() {
         const tagName = typeof tag === "object" ? `${tag.name} (${tag.translation || "\u65E0\u7FFB\u8BD1"})` : tag;
         div.textContent = tagName;
         div.className = "st-chatu8-search-result-item";
+        const tagKey = typeof tag === "object" ? getTagKey({ text: tag.name, desc: tag.translation }) : tag;
+        div.dataset.key = tagKey;
+        if (selectedTagKeys.has(tagKey)) {
+          div.classList.add("st-chatu8-search-tag-selected");
+        }
         div.onclick = () => {
-          navigator.clipboard.writeText(tag.name).then(() => {
-            showToast(`\u5DF2\u590D\u5236: ${tag.name}`, "success");
-          });
+          if (selectedTagKeys.has(tagKey)) {
+            removeSelectedTag(tagKey);
+          } else {
+            addSelectedTag(tagKey, true);
+          }
         };
         VOCABULARY_SEARCH_RESULTS.appendChild(div);
       });
@@ -76362,13 +76736,21 @@ async function searchTags2() {
   }
 }
 function handleTagBackspace() {
-  const currentValue = VOCABULARY_SELECTED_TAGS.value;
-  let tags = currentValue.split(",").map((tag) => tag.trim()).filter((tag) => tag);
-  tags.pop();
-  VOCABULARY_SELECTED_TAGS.value = tags.join(", ");
+  const removed = selectedTagsList.pop();
+  if (removed === undefined) {
+    return;
+  }
+  selectedTagKeys.delete(removed);
+  selectedTagSearchKeys.delete(removed);
+  renderSelectedTags();
+  refreshTreeTagHighlight(removed, false);
 }
 function handleTagClear() {
-  VOCABULARY_SELECTED_TAGS.value = "";
+  selectedTagsList.forEach((tagText) => refreshTreeTagHighlight(tagText, false));
+  selectedTagsList = [];
+  selectedTagKeys.clear();
+  selectedTagSearchKeys.clear();
+  renderSelectedTags();
 }
 function copyToClipboard(text) {
   if (navigator.clipboard && window.isSecureContext) {
@@ -76412,12 +76794,15 @@ function fallbackCopyTextToClipboard(text) {
   document.body.removeChild(textArea);
 }
 function handleTagCopy() {
-  const rawText = VOCABULARY_SELECTED_TAGS.value.trim();
-  if (!rawText) {
+  if (selectedTagsList.length === 0) {
     showToast("\u8F93\u5165\u6846\u5185\u6CA1\u6709\u6807\u7B7E\u53EF\u4EE5\u590D\u5236", "info");
     return;
   }
-  const result = rawText.replace(/\(/g, "\uFF08").replace(/\)/g, "\uFF09");
+  // 只复制标签名，去掉括号内的翻译内容
+  const result = selectedTagsList.map((key) => {
+    const idx = key.indexOf("(");
+    return idx >= 0 ? key.slice(0, idx) : key;
+  }).join(", ").trim();
   if (!result) {
     showToast("\u6CA1\u6709\u53EF\u4EE5\u590D\u5236\u7684\u6807\u7B7E", "info");
     return;
@@ -76582,6 +76967,12 @@ function init() {
   VOCABULARY_MANUAL_TAGS_IMPORT_BTN = document.getElementById("vocabulary-manual-tags-import-btn");
   VOCABULARY_MANUAL_TAGS_IMPORT_INPUT = document.getElementById("vocabulary-manual-tags-import-input");
   VOCABULARY_MANUAL_TAGS_FILTER_INPUT = document.getElementById("vocabulary-manual-tags-filter-input");
+  VOCABULARY_PRESET_SELECT = document.getElementById("vocabulary-preset-select");
+  VOCABULARY_PRESET_NAME_INPUT = document.getElementById("vocabulary-preset-name-input");
+  VOCABULARY_PRESET_SAVE_BTN = document.getElementById("vocabulary-preset-save-btn");
+  VOCABULARY_PRESET_LOAD_BTN = document.getElementById("vocabulary-preset-load-btn");
+  VOCABULARY_PRESET_DELETE_BTN = document.getElementById("vocabulary-preset-delete-btn");
+  renderSelectedTags();
   VOCABULARY_INSTALL_ALL_BTN.addEventListener("click", installAllVocabularies);
   VOCABULARY_UNINSTALL_ALL_BTN.addEventListener("click", uninstallAllVocabularies);
   VOCABULARY_SEARCH_BTN.addEventListener("click", searchTags2);
@@ -76606,6 +76997,15 @@ function init() {
   };
   VOCABULARY_MANUAL_TAG_ORIGINAL_INPUT.addEventListener("keypress", manualTagEnterHandler);
   VOCABULARY_MANUAL_TAG_TRANSLATION_INPUT.addEventListener("keypress", manualTagEnterHandler);
+  VOCABULARY_PRESET_SAVE_BTN.addEventListener("click", handlePresetSave);
+  VOCABULARY_PRESET_LOAD_BTN.addEventListener("click", handlePresetLoad);
+  VOCABULARY_PRESET_DELETE_BTN.addEventListener("click", handlePresetDelete);
+  VOCABULARY_PRESET_NAME_INPUT.addEventListener("keypress", (e) => {
+    if (e.key === "Enter") {
+      handlePresetSave();
+    }
+  });
+  renderPresetSelect();
   renderVocabularyList();
   buildTagTree();
   renderManualTags();

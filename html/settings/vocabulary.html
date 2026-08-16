@@ -16,7 +16,7 @@
     <div class="st-chatu8-settings-section">
         <h3>标签浏览器</h3>
         <div class="st-chatu8-field-col">
-            <textarea id="vocabulary-selected-tags" class="st-chatu8-textarea" rows="3" placeholder="点击下方的标签将会添加到这里..."></textarea>
+            <div id="vocabulary-selected-tags" class="st-chatu8-tag-chips"></div>
             <div class="st-chatu8-tag-browser-actions">
                 <button id="vocabulary-tag-backspace" class="st-chatu8-btn">回退</button>
                 <button id="vocabulary-tag-clear" class="st-chatu8-btn danger">清空</button>
@@ -24,6 +24,16 @@
             </div>
         </div>
         <div id="vocabulary-tree-container" class="st-chatu8-tree-container"></div>
+        <div class="st-chatu8-field-col" style="margin-top: 10px;">
+            <label>已保存的标签设定</label>
+            <div class="st-chatu8-input-group" style="flex-wrap: wrap;">
+                <select id="vocabulary-preset-select" class="st-chatu8-select" style="min-width: 120px; flex: 1;"></select>
+                <input type="text" id="vocabulary-preset-name-input" class="st-chatu8-text-input" placeholder="设定名称..." style="min-width: 100px; flex: 1;">
+                <button id="vocabulary-preset-save-btn" class="st-chatu8-btn">保存当前</button>
+                <button id="vocabulary-preset-load-btn" class="st-chatu8-btn">载入</button>
+                <button id="vocabulary-preset-delete-btn" class="st-chatu8-btn danger">删除</button>
+            </div>
+        </div>
     </div>
     <div class="st-chatu8-settings-section">
         <h3>手动标签管理</h3>
